@@ -1,0 +1,53 @@
+﻿Image,Category,Subcategory,Med_name,Med_brand
+image006.jpg,Antihypertensives,Angiotensin II Receptor Blockers (ARBs),Candesartan,Atacand
+image007.jpg,Antihypertensives,Angiotensin II Receptor Blockers (ARBs),Valsartan,Diovan
+image008.jpg,Antihypertensives,Calcium Channel Blockers,Amlodipine,Norvasc
+image009.jpg,Antihypertensives,Calcium Channel Blockers,Diltiazem,Cardizem
+image010.jpg,Antihypertensives,Beta-Blockers,Metoprolol,Betaloc
+image011.png,Antihypertensives,Beta-Blockers,Metoprolol,Lopressor
+image012.jpg,Antihypertensives,Beta-Blockers,Carvedilol,Coreg
+image013.jpg,Antihypertensives,Diuretics,Furosemide,Lasix
+image014.png,Antihypertensives,Diuretics,Hydrochlorothiazide,Microzide
+image015.jpg,Antihypertensives,Diuretics,Spironolactone,Aldactone
+image017.png,Anticoagulants,,Warfarin,Coumadin
+image018.png,Anticoagulants,,Rivaroxaban,Xarelto
+image019.jpg,Anticoagulants,,Apixaban,Eliquis
+image020.jpg,Anticoagulants,,Dabigatran,Vincenti
+image021.jpg,Anticoagulants,,Dabigatran,Pradaxa
+image022.jpg,Antiplatelet Agents,,Aspirin,Low-dose
+image023.jpg,Antiplatelet Agents,,Clopidogrel,Plavix
+image024.jpg,Antiplatelet Agents,,Clopidogrel,Vega
+image027.png,Antiplatelet Agents,,Ticagrelor,Brilinta
+image028.jpg,Antiplatelet Agents,,Ticagrelor,Brilinta
+image030.png,Antiplatelet Agents,,Ticagrelor,Ticagrace
+image032.png,Antiplatelet Agents,,Ticagrelor,Brilinta
+image033.png,Statins,,Atorvastatin,Lipitor
+image034.jpg,Statins,,Atorvastatin,Lipitor
+image035.jpg,Statins,,Atorvastatin,Lipitor
+image036.png,Statins,,Atorvastatin,Lipitor
+image037.jpg,Statins,,Rosuvastatin,Crestor
+image039.jpg,Statins,,Rosuvastatin,Crestor
+image040.jpg,Statins,,Rosuvastatin,Crestor
+image041.png,Statins,,Rosuvastatin,Crestor
+image042.png,Statins,,Simvastatin,Zocor
+image043.png,Statins,,Simvastatin,Zocor
+image044.png,Statins,,Simvastatin,Zocor
+image046.jpg,Statins,,Simvastatin,Zocor
+image047.jpg,Nitrates,,Glyceryl trinitrate,Nitrolingual_Nitrostat
+image048.jpg,Nitrates,,Glyceryl trinitrate,Nitrolingual_Nitrostat
+image049.png,Nitrates,,Isosorbide mononitrate,Monodur
+image050.jpg,Nitrates,,Isosorbide mononitrate,Monodur
+image051.png,Nitrates,,Isosorbide mononitrate,Monodur
+image053.png,Nitrates,,Isosorbide mononitrate,Monodur
+image054.png,Heart Failure Medications ,Mineralocorticoid Receptor Antagonists (MRAs),Spironolactone,Aldactone
+image056.png,Heart Failure Medications ,,Eplerenone,Inspra
+image058.png,Heart Failure Medications ,,Eplerenone,Inspra
+image059.jpg,Antiarrhythmics,,Amiodarone,Cordarone
+image060.png,Antiarrhythmics,,Amiodarone,Cordarone
+image061.jpg,Antiarrhythmics,,Amiodarone,Cordarone
+image062.jpg,Antiarrhythmics,,Amiodarone,Cordarone
+image063.png,Antiarrhythmics,,Amiodarone,Cordarone
+image064.png,Antiarrhythmics,,Digoxin,Lanoxin
+image065.png,Combination Medications ,,Exforge,Amlodipine and Valsartan for blood pressure
+image066.png,Combination Medications ,,Exforge,Amlodipine and Valsartan for blood pressure
+image067.png,Combination Medications ,,Caduet,Amlodipine and Atorvastatin for blood pressure and cholesterol
